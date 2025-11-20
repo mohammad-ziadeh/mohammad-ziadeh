@@ -1,12 +1,12 @@
 # 💫 About Me:
-Mohammad Ziadeh<br><br>{{ Fullstack dev }}
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-ziadeh) 
-
-# 💻 Tech Stack:
-
+<br/>
+<br/>
+<h1 align="center">
+**Mohammad Ziadeh**
+</h1>
+<br/>
+<br/>
+<br/>
 <div>
   <h2 align="center">Frontend</h2>  
 </div>
@@ -17,13 +17,25 @@ Mohammad Ziadeh<br><br>{{ Fullstack dev }}
   <h2 align="center">Backend & Fullstack</h2>  
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,sqlite" />
 </div>
 <div>
   <h2 align="center">Style</h2>  
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=css,emotion,tailwind,bootstrap" />
+</div>
+<div>
+  <h3 align="center">Others</h3>  
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,figma" />
+</div>
+<div>
+  <h2 align="center">Studying</h2>  
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,threejs,nodejs" />
 </div>
 
  
