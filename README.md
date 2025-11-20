@@ -11,8 +11,13 @@
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-ziadeh&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://nirzak-streak-stats.vercel.app/?user=mohammad-ziadeh&theme=dark&hide_border=true)<br/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohammad-ziadeh&theme=dark&hide_border=true" />
+  </a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohammad-ziadeh&theme=dark&hide_border=true" />
+</p>
+
 <br/>
 <br/>
 <div>
