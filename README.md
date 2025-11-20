@@ -1,9 +1,13 @@
-# 💫 About Me:
 <br/>
 <br/>
 <h1 align="center">
 **Mohammad Ziadeh**
 </h1>
+<div align="center">
+    <a href="https://www.linkedin.com/in/mohammad-ziadeh-a8400335b/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
+</div>
 <br/>
 <br/>
 
@@ -41,13 +45,20 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,threejs,nodejs" />
 </div>
-
  <br/>
 <br/>
-<br/>
+
+
 <br/>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfsan2b4qotkq5zagmza7mq324&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfsan2b4qotkq5zagmza7mq324&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color_cover=true">
   </a>
 </p>
+<br/>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qfsan2b4qotkq5zagmza7mq324&unique=1" />
+</p>
+
+
+
