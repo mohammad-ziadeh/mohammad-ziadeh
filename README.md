@@ -51,7 +51,7 @@
   <h2 align="center">Studying</h2>  
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,threejs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,threejs,nodejs,ts" />
 </div>
  <br/>
 <br/>
