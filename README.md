@@ -27,7 +27,7 @@
   <h2 align="center">Frontend</h2>  
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,flutter,dart,html,js" />
+  <img src="https://skillicons.dev/icons?i=react,vite,flutter,dart,html,js,alpinejs" />
 </div>
 <div>
   <h2 align="center">Backend & Fullstack</h2>  
