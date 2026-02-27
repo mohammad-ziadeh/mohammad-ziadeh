@@ -45,7 +45,7 @@
   <h3 align="center">Others</h3>  
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,figma,notion" />
 </div>
 <div>
   <h2 align="center">Studying</h2>  
