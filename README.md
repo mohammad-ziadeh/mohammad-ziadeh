@@ -33,7 +33,7 @@
   <h2 align="center">Backend & Fullstack</h2>  
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,sqlite" />
 </div>
 <div>
   <h2 align="center">Style</h2>  
@@ -45,7 +45,7 @@
   <h3 align="center">Others</h3>  
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,netlify,figma,obsidian,notion" />
 </div>
 <div>
   <h2 align="center">Studying</h2>  
