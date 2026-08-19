@@ -64,9 +64,7 @@
   </a>
 </p>
 <br/>
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qfsan2b4qotkq5zagmza7mq324&unique=1" />
-</p>
+
 
 
 
