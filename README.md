@@ -19,7 +19,7 @@
 
 <br/>
 
-<h2 align="center">Tools & Technologies</h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Tools+%26+Technologies" alt="Typing SVG" /></a></h2>
 
 <h3 align="center">Frontend</h3>
 <div align="center">
