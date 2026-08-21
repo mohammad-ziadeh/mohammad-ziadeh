@@ -4,11 +4,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammad-ziadeh-a8400335b/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Ziadeh-informational?logo=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://portfolio-mohammadziadeh.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" height="50" alt="Personal Portfolio" />
+    <img src="https://img.shields.io/badge/Personal%20Site-Portfolio-red?logo=firefox" alt="Portfolio" />
   </a>
 </div>
 
