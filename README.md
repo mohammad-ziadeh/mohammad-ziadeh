@@ -95,9 +95,9 @@
         </a><br/><sub><b>MySQL</b></sub>
       </td>
       <td align="center" width="96">
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-        </a><br/><sub><b>SQLite</b></sub>
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        </a><br/><sub><b>PostgreSQL</b></sub>
       </td>
     </tr>
   </table>
