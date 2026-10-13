@@ -170,7 +170,7 @@
       </td>
       <td align="center" width="96">
         <a href="https://htmx.dev/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=htmx" width="48" height="48" alt="Go" />
+          <img src="https://skillicons.dev/icons?i=htmx" width="48" height="48" alt="Htmx" />
         </a><br/><sub><b>Htmx</b></sub>
       </td>
     </tr>
