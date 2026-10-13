@@ -31,11 +31,6 @@
         </a><br/><sub><b>React</b></sub>
       </td>
       <td align="center" width="96">
-        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-        </a><br/><sub><b>Vite</b></sub>
-      </td>
-      <td align="center" width="96">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
         </a><br/><sub><b>HTML5</b></sub>
@@ -126,16 +121,6 @@
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
         </a><br/><sub><b>Bootstrap</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://emotion.sh/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=emotion" width="48" height="48" alt="Emotion" />
-        </a><br/><sub><b>Emotion</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        </a><br/><sub><b>Figma</b></sub>
       </td>
     </tr>
   </table>
