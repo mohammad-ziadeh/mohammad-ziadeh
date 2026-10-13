@@ -19,173 +19,156 @@
 
 <br/>
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Tools+%26+Technologies" alt="Typing SVG" /></a></h2>
+<h2 align="center">Tools & Technologies</h2>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend Development</h3>
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
         <a href="https://react.dev/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        </a><br/>
-        <sub><b>React</b></sub>
+        </a><br/><sub><b>React</b></sub>
       </td>
       <td align="center" width="96">
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-        </a><br/>
-        <sub><b>Vite</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-        </a><br/>
-        <sub><b>Flutter</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-        </a><br/>
-        <sub><b>Dart</b></sub>
+        </a><br/><sub><b>Vite</b></sub>
       </td>
       <td align="center" width="96">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        </a><br/>
-        <sub><b>HTML5</b></sub>
+        </a><br/><sub><b>HTML5</b></sub>
       </td>
       <td align="center" width="96">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        </a><br/>
-        <sub><b>JavaScript</b></sub>
+        </a><br/><sub><b>JavaScript</b></sub>
       </td>
       <td align="center" width="96">
         <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=alpinejs" width="48" height="48" alt="Alpine.js" />
-        </a><br/>
-        <sub><b>Alpine.js</b></sub>
+        </a><br/><sub><b>Alpine.js</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<h3 align="center">Backend & Fullstack</h3>
+<h3 align="center">Backend Development</h3>
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        </a><br/>
-        <sub><b>Laravel</b></sub>
-      </td>
-      <td align="center" width="96">
         <a href="https://www.php.net/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        </a><br/>
-        <sub><b>PHP</b></sub>
+        </a><br/><sub><b>PHP</b></sub>
       </td>
       <td align="center" width="96">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        </a><br/>
-        <sub><b>MySQL</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-        </a><br/>
-        <sub><b>SQLite</b></sub>
+        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        </a><br/><sub><b>Laravel</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<h3 align="center">Styling</h3>
+<h3 align="center">Mobile Development</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+        </a><br/><sub><b>Flutter</b></sub>
+      </td>
+      <td align="center" width="96">
+        <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+        </a><br/><sub><b>Dart</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">Databases</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        </a><br/><sub><b>MySQL</b></sub>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+        </a><br/><sub><b>SQLite</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">Styling & UI</h3>
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        </a><br/>
-        <sub><b>CSS3</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://emotion.sh/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=emotion" width="48" height="48" alt="Emotion" />
-        </a><br/>
-        <sub><b>Emotion</b></sub>
+        </a><br/><sub><b>CSS3</b></sub>
       </td>
       <td align="center" width="96">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        </a><br/>
-        <sub><b>Tailwind</b></sub>
+          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+        </a><br/><sub><b>Tailwind CSS</b></sub>
       </td>
       <td align="center" width="96">
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        </a><br/>
-        <sub><b>Bootstrap</b></sub>
+        </a><br/><sub><b>Bootstrap</b></sub>
+      </td>
+      <td align="center" width="96">
+        <a href="https://emotion.sh/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=emotion" width="48" height="48" alt="Emotion" />
+        </a><br/><sub><b>Emotion</b></sub>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        </a><br/><sub><b>Figma</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<h3 align="center">Tools & Platforms</h3>
+<h3 align="center">Development Tools & Platforms</h3>
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        </a><br/>
-        <sub><b>Git</b></sub>
+        </a><br/><sub><b>Git</b></sub>
       </td>
       <td align="center" width="96">
         <a href="https://github.com/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        </a><br/>
-        <sub><b>GitHub</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        </a><br/>
-        <sub><b>Postman</b></sub>
+        </a><br/><sub><b>GitHub</b></sub>
       </td>
       <td align="center" width="96">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        </a><br/>
-        <sub><b>Docker</b></sub>
+        </a><br/><sub><b>Docker</b></sub>
       </td>
       <td align="center" width="96">
-        <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-        </a><br/>
-        <sub><b>Netlify</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        </a><br/>
-        <sub><b>Figma</b></sub>
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        </a><br/><sub><b>Postman</b></sub>
       </td>
       <td align="center" width="96">
         <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Obsidian" />
-        </a><br/>
-        <sub><b>Obsidian</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-        </a><br/>
-        <sub><b>Notion</b></sub>
+        </a><br/><sub><b>Obsidian</b></sub>
       </td>
     </tr>
   </table>
@@ -196,28 +179,9 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        </a><br/>
-        <sub><b>Next.js</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-        </a><br/>
-        <sub><b>Three.js</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        </a><br/>
-        <sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        </a><br/>
-        <sub><b>TypeScript</b></sub>
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+        </a><br/><sub><b>Go</b></sub>
       </td>
     </tr>
   </table>
